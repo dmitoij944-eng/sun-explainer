@@ -1,0 +1,54 @@
+{
+ "fps": 30,
+ "total_frames": 415,
+ "engine": "edge",
+ "voice": "zh-CN-YunxiNeural",
+ "rate": "+0%",
+ "gap": 10,
+ "para_gap": 20,
+ "chapter_gap": 45,
+ "lead": 40,
+ "tail": 90,
+ "lang": "en",
+ "chapters": [],
+ "sentences": [
+  {
+   "id": "S01",
+   "chapter": 0,
+   "from": 41,
+   "to": 315,
+   "text": "The Sun. A massive ball of plasma one point four million kilometers wide, burning at fifteen million degrees, that powers all life on Earth.",
+   "para": true,
+   "subs": [
+    {
+     "from": 41,
+     "to": 75,
+     "text": "The Sun."
+    },
+    {
+     "from": 76,
+     "to": 115,
+     "text": "A massive ball of plasma"
+    },
+    {
+     "from": 116,
+     "to": 187,
+     "text": "one point four million kilometers wide,"
+    },
+    {
+     "from": 188,
+     "to": 256,
+     "text": "burning at fifteen million degrees,"
+    },
+    {
+     "from": 257,
+     "to": 315,
+     "text": "that powers all life on Earth."
+    }
+   ]
+  }
+ ],
+ "chars": 113,
+ "words": 24,
+ "speech_sec": 9.15
+}
